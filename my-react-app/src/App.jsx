@@ -1,11 +1,13 @@
-import Test from './components/test'; // Import the Test component
+import UserList from "./components/user"
+
 function App() {
   
 
   return (
     <>
      <div>
-       <Test />
+        <UserList />
+
      </div>
     </>
   )
